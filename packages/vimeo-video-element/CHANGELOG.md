@@ -5,6 +5,35 @@
 [1]: https://www.npmjs.com/package/vimeo-video-element?activeTab=versions
 
 
+## [1.6.0](https://github.com/jy95/media-elements/compare/vimeo-video-element-v1.5.1...vimeo-video-element@1.6.0) (2025-07-02)
+
+
+### Features
+
+* add better CJS + types support ([#66](https://github.com/jy95/media-elements/issues/66)) ([8aa2066](https://github.com/jy95/media-elements/commit/8aa20660faea741a264076a1464182ca283a8682)), closes [#44](https://github.com/jy95/media-elements/issues/44)
+* add config property to vimeo-video ([#88](https://github.com/jy95/media-elements/issues/88)) ([8d19588](https://github.com/jy95/media-elements/commit/8d19588702072a710f4c27f5eaf1d8df1e1a22f2))
+* add SSR to vimeo-video-element ([c44e755](https://github.com/jy95/media-elements/commit/c44e755a57c252631971b17b0f3b1607ac0ec70f))
+* media elements arise 🌱 ([5303770](https://github.com/jy95/media-elements/commit/530377067b9d87b464b3c4eadc93c6b210deac56))
+* use ce-la-react, fix React 19 issues ([#61](https://github.com/jy95/media-elements/issues/61)) ([0a734e9](https://github.com/jy95/media-elements/commit/0a734e94149172bfd3019cf03ac3a3e74f395ac1))
+* Vimeo fullscreen & PiP via API to avoid Apple iframe restriction ([#122](https://github.com/jy95/media-elements/issues/122)) ([bff8f09](https://github.com/jy95/media-elements/commit/bff8f09e9f4799986c29b11b96df5117efb9b74a))
+
+
+### Bug Fixes
+
+* add React SSR in cloudflare-video-element ([e7d3651](https://github.com/jy95/media-elements/commit/e7d36517ce2682a6642e3dbcb2e48875678d53bd))
+* Match params for unlisted videos ([#43](https://github.com/jy95/media-elements/issues/43)) ([d2abefc](https://github.com/jy95/media-elements/commit/d2abefcfff370bf26232331abbb009aaf02108fb))
+* state issues ([dbc5de7](https://github.com/jy95/media-elements/commit/dbc5de783596dec7b816b7cd09790e363a5a682f))
+* update build-react-wrapper script ([5b42462](https://github.com/jy95/media-elements/commit/5b42462794192a19b730e7aaabba5646300f0a05))
+* upgrade dependencies ([#130](https://github.com/jy95/media-elements/issues/130)) ([afb6797](https://github.com/jy95/media-elements/commit/afb6797342db3be3d173957d44df49fd26ffafc5))
+* Vimeo config w/ React SSR + types ([#94](https://github.com/jy95/media-elements/issues/94)) ([c8fed3e](https://github.com/jy95/media-elements/commit/c8fed3e06282aa317d7acc67ce42f598a7fd1c4e))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * build-react-wrapper bumped from ^0.2.1 to ^0.3.0
+
 ## [1.5.1](https://github.com/muxinc/media-elements/compare/vimeo-video-element@1.5.0...vimeo-video-element@1.5.1) (2025-06-26)
 
 

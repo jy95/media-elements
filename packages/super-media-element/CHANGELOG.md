@@ -5,6 +5,19 @@
 [1]: https://www.npmjs.com/package/super-media-element?activeTab=versions
 
 
+## [1.5.0](https://github.com/jy95/media-elements/compare/super-media-element-v1.4.2...super-media-element@1.5.0) (2025-07-02)
+
+
+### Features
+
+* media elements arise 🌱 ([5303770](https://github.com/jy95/media-elements/commit/530377067b9d87b464b3c4eadc93c6b210deac56))
+
+
+### Bug Fixes
+
+* update build-react-wrapper script ([5b42462](https://github.com/jy95/media-elements/commit/5b42462794192a19b730e7aaabba5646300f0a05))
+* upgrade dependencies ([#24](https://github.com/jy95/media-elements/issues/24)) ([f5abdcf](https://github.com/jy95/media-elements/commit/f5abdcff0637e7d1f6b82f4684d94fccaceb8484))
+
 ## [1.4.2](https://github.com/muxinc/media-elements/compare/super-media-element@1.4.1...super-media-element@1.4.2) (2024-06-07)
 
 

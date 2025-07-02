@@ -4,6 +4,31 @@
 
 [1]: https://www.npmjs.com/package/cloudflare-video-element?activeTab=versions
 
+## [1.4.0](https://github.com/jy95/media-elements/compare/cloudflare-video-element-v1.3.2...cloudflare-video-element@1.4.0) (2025-07-02)
+
+
+### Features
+
+* add better CJS + types support ([#66](https://github.com/jy95/media-elements/issues/66)) ([8aa2066](https://github.com/jy95/media-elements/commit/8aa20660faea741a264076a1464182ca283a8682)), closes [#44](https://github.com/jy95/media-elements/issues/44)
+* add SSR to vimeo-video-element ([c44e755](https://github.com/jy95/media-elements/commit/c44e755a57c252631971b17b0f3b1607ac0ec70f))
+* media elements arise 🌱 ([5303770](https://github.com/jy95/media-elements/commit/530377067b9d87b464b3c4eadc93c6b210deac56))
+* use ce-la-react, fix React 19 issues ([#61](https://github.com/jy95/media-elements/issues/61)) ([0a734e9](https://github.com/jy95/media-elements/commit/0a734e94149172bfd3019cf03ac3a3e74f395ac1))
+
+
+### Bug Fixes
+
+* add React SSR in cloudflare-video-element ([e7d3651](https://github.com/jy95/media-elements/commit/e7d36517ce2682a6642e3dbcb2e48875678d53bd))
+* duplicate iframe load ([8a532f2](https://github.com/jy95/media-elements/commit/8a532f2f23d9d5dd5d80773c9cfc88a8cab1d69c))
+* state issues ([dbc5de7](https://github.com/jy95/media-elements/commit/dbc5de783596dec7b816b7cd09790e363a5a682f))
+* update build-react-wrapper script ([5b42462](https://github.com/jy95/media-elements/commit/5b42462794192a19b730e7aaabba5646300f0a05))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * build-react-wrapper bumped from ^0.2.1 to ^0.3.0
+
 ## [1.3.2](https://github.com/muxinc/media-elements/compare/cloudflare-video-element@1.3.1...cloudflare-video-element@1.3.2) (2025-06-26)
 
 
