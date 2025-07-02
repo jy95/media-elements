@@ -5,6 +5,33 @@
 [1]: https://www.npmjs.com/package/dash-video-element?activeTab=versions
 
 
+## [0.2.0](https://github.com/jy95/media-elements/compare/dash-video-element-v0.1.5...dash-video-element@0.2.0) (2025-07-02)
+
+
+### Features
+
+* add better CJS + types support ([#66](https://github.com/jy95/media-elements/issues/66)) ([8aa2066](https://github.com/jy95/media-elements/commit/8aa20660faea741a264076a1464182ca283a8682)), closes [#44](https://github.com/jy95/media-elements/issues/44)
+* add SSR to hls and dash video element ([08a4d09](https://github.com/jy95/media-elements/commit/08a4d09c7a514e9d22a74a9b21abf7df2c27298d))
+* media elements arise 🌱 ([5303770](https://github.com/jy95/media-elements/commit/530377067b9d87b464b3c4eadc93c6b210deac56))
+* upgrade dash.js ([#79](https://github.com/jy95/media-elements/issues/79)) ([36edc9e](https://github.com/jy95/media-elements/commit/36edc9e84c7d8d75ea1d658975d312312b18637c))
+* use ce-la-react, fix React 19 issues ([#61](https://github.com/jy95/media-elements/issues/61)) ([0a734e9](https://github.com/jy95/media-elements/commit/0a734e94149172bfd3019cf03ac3a3e74f395ac1))
+
+
+### Bug Fixes
+
+* add React SSR in cloudflare-video-element ([e7d3651](https://github.com/jy95/media-elements/commit/e7d36517ce2682a6642e3dbcb2e48875678d53bd))
+* update build-react-wrapper script ([5b42462](https://github.com/jy95/media-elements/commit/5b42462794192a19b730e7aaabba5646300f0a05))
+* upgrade dependencies ([#130](https://github.com/jy95/media-elements/issues/130)) ([afb6797](https://github.com/jy95/media-elements/commit/afb6797342db3be3d173957d44df49fd26ffafc5))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * custom-media-element bumped from ^1.4.5 to ^1.5.0
+  * devDependencies
+    * build-react-wrapper bumped from ^0.2.1 to ^0.3.0
+
 ## [0.1.5](https://github.com/muxinc/media-elements/compare/dash-video-element@0.1.4...dash-video-element@0.1.5) (2025-06-26)
 
 

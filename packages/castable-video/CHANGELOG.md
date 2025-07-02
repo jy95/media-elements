@@ -5,6 +5,29 @@
 [1]: https://www.npmjs.com/package/castable-video?activeTab=versions
 
 
+## [1.2.0](https://github.com/jy95/media-elements/compare/castable-video-v1.1.10...castable-video@1.2.0) (2025-07-02)
+
+
+### Features
+
+* **castable-video:** Add castCustomData to send arbitrary custom data to receiver app on load. ([dcc50be](https://github.com/jy95/media-elements/commit/dcc50be4d1bef4cf91978f8ffd97bd5f5ea908d0))
+
+
+### Bug Fixes
+
+* callback on watchAvailability bug ([#106](https://github.com/jy95/media-elements/issues/106)) ([3a6544c](https://github.com/jy95/media-elements/commit/3a6544ca6eabbd9e91dde6a90327c6d78588c314))
+* **castable-video:** Enable playback of HLS videos with .m4s segments ([#89](https://github.com/jy95/media-elements/issues/89)) ([9624547](https://github.com/jy95/media-elements/commit/9624547111e1036bfd377574b955c1c6677c4513))
+* chrome.cast.isAvailable fatal typeerror ([#15](https://github.com/jy95/media-elements/issues/15)) ([8a7862f](https://github.com/jy95/media-elements/commit/8a7862fbc83a47f52e03d0a81af82ca76c473038))
+* media api unresponssive after session error ([#102](https://github.com/jy95/media-elements/issues/102)) ([0ee2d78](https://github.com/jy95/media-elements/commit/0ee2d78abd755a13d39280d7505330d9edd94642)), closes [#96](https://github.com/jy95/media-elements/issues/96)
+* no cast framework rq w/ disableremoteplayback ([#72](https://github.com/jy95/media-elements/issues/72)) ([fd7a34d](https://github.com/jy95/media-elements/commit/fd7a34df003a6cb7c0edf9e00df6562b5334bad3)), closes [#59](https://github.com/jy95/media-elements/issues/59)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * custom-media-element bumped from ~1.4.5 to ~1.5.0
+
 ## [1.1.10](https://github.com/muxinc/media-elements/compare/castable-video@1.1.9...castable-video@1.1.10) (2025-06-09)
 
 

@@ -6,6 +6,39 @@
 
 
 
+## [1.6.0](https://github.com/jy95/media-elements/compare/hls-video-element-v1.5.5...hls-video-element@1.6.0) (2025-07-02)
+
+
+### Features
+
+* add better CJS + types support ([#66](https://github.com/jy95/media-elements/issues/66)) ([8aa2066](https://github.com/jy95/media-elements/commit/8aa20660faea741a264076a1464182ca283a8682)), closes [#44](https://github.com/jy95/media-elements/issues/44)
+* add easier way to set hls.js config ([#73](https://github.com/jy95/media-elements/issues/73)) ([e4d6f0b](https://github.com/jy95/media-elements/commit/e4d6f0b00d6a7b7325bf209d9e05fa8df1747c86))
+* add SSR to hls and dash video element ([08a4d09](https://github.com/jy95/media-elements/commit/08a4d09c7a514e9d22a74a9b21abf7df2c27298d))
+* media elements arise 🌱 ([5303770](https://github.com/jy95/media-elements/commit/530377067b9d87b464b3c4eadc93c6b210deac56))
+* use ce-la-react, fix React 19 issues ([#61](https://github.com/jy95/media-elements/issues/61)) ([0a734e9](https://github.com/jy95/media-elements/commit/0a734e94149172bfd3019cf03ac3a3e74f395ac1))
+
+
+### Bug Fixes
+
+* add Airplay support to hls-video ([#40](https://github.com/jy95/media-elements/issues/40)) ([e4ce158](https://github.com/jy95/media-elements/commit/e4ce1584d16486fc5d445b130292e92a771fe0b6))
+* add React SSR in cloudflare-video-element ([e7d3651](https://github.com/jy95/media-elements/commit/e7d36517ce2682a6642e3dbcb2e48875678d53bd))
+* **hls-video-element:** serialize config for SSR ([#128](https://github.com/jy95/media-elements/issues/128)) ([80fc30e](https://github.com/jy95/media-elements/commit/80fc30e45c1b28ffeaf3f940de072cdf46249576))
+* Notify Video element the metadata is still loading ([#110](https://github.com/jy95/media-elements/issues/110)) ([f36c000](https://github.com/jy95/media-elements/commit/f36c000a20c611450c52c090ac0331913b1a602e))
+* update build-react-wrapper script ([5b42462](https://github.com/jy95/media-elements/commit/5b42462794192a19b730e7aaabba5646300f0a05))
+* upgrade dependencies ([#130](https://github.com/jy95/media-elements/issues/130)) ([afb6797](https://github.com/jy95/media-elements/commit/afb6797342db3be3d173957d44df49fd26ffafc5))
+* upgrade dependencies ([#24](https://github.com/jy95/media-elements/issues/24)) ([f5abdcf](https://github.com/jy95/media-elements/commit/f5abdcff0637e7d1f6b82f4684d94fccaceb8484))
+* upgrade hls.js to 1.6.2 ([#104](https://github.com/jy95/media-elements/issues/104)) ([ecd1ffe](https://github.com/jy95/media-elements/commit/ecd1ffe796d8df9aa045031a84dacdb5d420aad5))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * custom-media-element bumped from ^1.4.5 to ^1.5.0
+    * media-tracks bumped from ^0.3.3 to ^0.3.4
+  * devDependencies
+    * build-react-wrapper bumped from ^0.2.1 to ^0.3.0
+
 ## [1.5.5](https://github.com/muxinc/media-elements/compare/hls-video-element@1.5.4...hls-video-element@1.5.5) (2025-06-26)
 
 
